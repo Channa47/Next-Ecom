@@ -37,7 +37,10 @@ const Navbar = () => {
                             <button onClick={handleLogout} className="hover:text-yellow-400 cursor-pointer">Logout</button>
                         </>
                     ) : (
-                        <Link href="/login" className="hover:text-yellow-400 cursor-pointer">Login</Link>
+                        <>
+                            <Link href="/login" className="hover:text-yellow-400 cursor-pointer">Login</Link>
+                            <Link href="/signup" className="hover:text-yellow-400 cursor-pointer">Signup</Link>
+                        </>
                     )}
                 </div>
             </nav>
