@@ -1,5 +1,6 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
 
-import React, { useState } from "react";
+import React from "react";
 import { Product } from "../page";
 import { useRouter } from "next/navigation";
 import { useDispatch, useSelector } from "react-redux";
