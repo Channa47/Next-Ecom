@@ -16,3 +16,6 @@ Link : https://next-ecom-git-main-channa47s-projects.vercel.app/
 • Login 
 
 ## Tech Stack  : JavaScript | Next.js | Redux | CSS | Fake Store API | HTML | CSS | Tailwindcss
+
+sample ScreenShot : 
+![Screenshot (357)](https://channa47.github.io/images/next-ecom.png)
